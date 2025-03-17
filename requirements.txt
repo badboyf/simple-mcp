@@ -1,0 +1,8 @@
+anyio==4.8.0
+langchain==0.3.20
+langchain-core==0.3.44
+langchain-openai==0.3.1
+mcp==1.2.1
+pydantic==2.10.6
+pydantic-settings==2.8.1
+pydantic_core==2.27.2
